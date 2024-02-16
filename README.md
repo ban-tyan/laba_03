@@ -34,6 +34,7 @@
 1. https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23
 2. https://pythonworld.ru/osnovy/formatirovanie-strok-metod-format.html
 3. https://docs-python.ru/tutorial/vstroennye-funktsii-interpretatora-python/funktsija-isinstance/
+4. https://sky.pro/media/ploskij-spisok-iz-spiska-spiskov-v-python/
 
 
 
